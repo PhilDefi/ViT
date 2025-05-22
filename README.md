@@ -63,10 +63,16 @@ The pipeline evolved to incorporate a **Vision Transformer (ViT)**, a modern dee
 
 | Model     | Accuracy | Precision | Recall | F1-score |
 |-----------|----------|-----------|--------|----------|
-| VGG16     | 78.3%    | 74.9%     | 78.0%  | 78.9%    |
+| VGG16     | 78.4%    | 74.9%     | 78.0%  | 78.9%    |
 | ViT       | **87.7%**| **86.5%** | **86.6%** | **87.1%** |
 
 > Metrics tracked using MLflow with full experiment versioning.
+
+### 📈 VGG16 Accuracy on TensorBoard  
+![VGG16 CNN accuracy](images/vgg16_accuracy.png)
+
+### 🧮 Confusion Matrix  
+![Confusion Matrix](images/confusion_matrix.png)
 
 ---
 
