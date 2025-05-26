@@ -95,6 +95,8 @@ Key advantages include:
 - Reduced inductive bias compared to CNNs
 - State-of-the-art performance on large-scale image datasets
 
+![ViT attention map](images/vit_attention_map_example.png)
+
 > 📄 Reference Paper:  
 **"An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale"**  
 By Dosovitskiy et al. (Google Research)  
